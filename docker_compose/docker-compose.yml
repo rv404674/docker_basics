@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+    web:
+        image: nginx
+        ports: 
+            - 9090:80
+            # expose port 80 of the nginx server to 9090 of host machine
+    database:
+        image: redis
+
