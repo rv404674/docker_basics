@@ -17,7 +17,7 @@ docker-compose --version
 docker-compose version
 ```
 
-**Usage** - TO check if docker is installed or not.
+**Usage** - TO check if docker compose is installed or not.
 
 2. Create a file name "docker-compose.yml".
 
